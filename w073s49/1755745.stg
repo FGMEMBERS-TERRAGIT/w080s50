@@ -46,3 +46,4 @@ OBJECT_SHARED Models/lib/cars7.ac -72.56237 -48.46690 268.77 99.5
 OBJECT_SHARED Models/lib/handicap-sign.ac -72.56198 -48.46638 268.48 189.5
 OBJECT_SHARED Models/lib/cars7.ac -72.56197 -48.46646 268.57 189.5
 # END dsf2stg
+OBJECT_SHARED Models/Airport/windsock.xml -72.56312 -48.474216 277.31 0

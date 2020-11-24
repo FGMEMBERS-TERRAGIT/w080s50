@@ -2,6 +2,6 @@ OBJECT_SHARED Models/Airport/ndb.ac -73.048611 -40.631111 53.82 180
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/SmHangar.ac -73.12637 -40.64095 81.56 207.28
-OBJECT_SHARED Models/lib/SmHangar.ac -73.12664 -40.64076 81.65 121.83
+OBJECT_SHARED Models/lib/SmHangar.ac -73.12637 -40.64095 0.00 207.28
+OBJECT_SHARED Models/lib/SmHangar.ac -73.12664 -40.64076 81.56 121.83
 # END dsf2stg
